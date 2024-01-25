@@ -8,7 +8,7 @@
             <li>클린코드를 지향하고 알아보기 쉽고, 효율적인 코드를 짜기 위해 노력합니다.</li>
             <li>적극적인 프로젝트 참여를하려고 합니다.</li>
             <li>신입개발자로서 많이 배우려고 노력중입니다.</li>
-            <li>더 자세한 설명은 <a href="[https://www.notion.so/e28a01bda1c14b528cd4ff047f8837f7?pvs=4](https://www.notion.so/e28a01bda1c14b528cd4ff047f8837f7?pvs=4)">포트폴리오</a>를 참고해주세요</li>
+            <li>더 자세한 설명은 <a href="https://www.notion.so/e28a01bda1c14b528cd4ff047f8837f7?pvs=4">포트폴리오</a>를 참고해주세요</li>
         </ul>
 </header>
 <body>
