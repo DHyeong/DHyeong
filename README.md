@@ -3,7 +3,7 @@
 <header>
         <h3>Who Am I</h3>
         <ul>
-            <li>java를 기반으로 Spring Boot에서 Maven을 사용하는 백엔드 개발자 입니다.</li>
+            <li>JAVA를 기반으로 Spring Boot에서 Maven을 사용하는 백엔드 개발자 입니다.</li>
             <li>다양한 기능구현에 관심이 있습니다.</li>
             <li>클린코드를 지향하고 알아보기 쉽고, 효율적인 코드를 짜기 위해 노력합니다.</li>
             <li>적극적인 프로젝트 참여를하려고 합니다.</li>
